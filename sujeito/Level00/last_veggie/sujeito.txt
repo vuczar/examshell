@@ -1,0 +1,6 @@
+Assignment name  : last_veggie
+Expected files   : last_veggie.c
+Allowed functions: write
+--------------------------------------------------------------------------------
+Escreva um programa que recebe strings como argumentos e exibe seu último argumento seguido de uma nova linha.
+Se o número de argumentos for menor que 1, o programa exibe uma nova linha.
